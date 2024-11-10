@@ -16,7 +16,7 @@ Este proyecto es una aplicación construida con React que permite a los usuarios
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/Saraccee25/Parcial-FrontEnd-III.git
 2. Instala las dependencias:
    ```bash
    npm install
